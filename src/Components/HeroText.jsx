@@ -6,7 +6,7 @@ const HeroText = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-9">
-            <h2>Best Flat Responsive Free Bootstrap Template</h2>
+            <h2>Students' Automobile Club KGEC</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
               eget risus vitae massa semper aliquam quis mattis quam. Morbi vitae
